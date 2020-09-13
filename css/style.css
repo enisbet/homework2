@@ -57,6 +57,11 @@ div{
 	background-color: #008000 ;
 	text-align: left;	
 }
+footer.p{
+	text-align:right;
+	padding-right:10px;
+	padding-bottom:10px;
+}
 
 img{
 	display:block;
