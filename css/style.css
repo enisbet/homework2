@@ -18,6 +18,14 @@ p{
 	font-size: 24px;
 	padding-top: 20px;
 }
+div{
+	min-height:150px;
+	height:auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
 	
 
 #intro{
@@ -25,28 +33,18 @@ p{
 }
 
 #red{
-	background-color:red;
+	background-color:#FF0000;
 	text-align:right;
 }
-
-/* body{
-	margin:1%;
-	padding:1%;
+#blue{
+	background-color: #0000FF;
+	text-align: left;
 }
 
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+#yellow{
+	background-color: #FFFF00;
+	text-align: right;
 }
-
-header, main, nav, footer{
-	border: 1px solid grey;
-	margin-bottom: 10px;
-}
- */
 
 img{
 	display:block;
