@@ -28,13 +28,12 @@ header, main, nav, footer{
 	border: 1px solid grey;
 	margin-bottom: 10px;
 }
+ */
 
 img{
     height: 200px;
-    width:inherit;
-    border: 3px solid blue;
-    padding: 25px;
-    border-radius: 10px;
-    margin: 10px;
+    width:max-width;
+	margin:auto;
+
 }
- */
+
