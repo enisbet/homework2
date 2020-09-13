@@ -39,7 +39,9 @@ header, main, nav, footer{
 img{
     height: 200px;
     width:max-width;
-	margin:auto;
+	margin-left:auto;
+	margin-right:auto;
+	
 
 }
 
