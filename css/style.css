@@ -1,6 +1,7 @@
 html{
 	font-family: "Ludica Grande", Sans-Serif;
-	background-color:#000000;
+/* 	background-color:#000000; */
+	background-color:red;
 	color: #FFFFFF;
 }
 
@@ -55,7 +56,6 @@ div{
 }
 
 #green{
-	color: red;
 	background-color: #008000 ;
 	text-align: left;	
 }
