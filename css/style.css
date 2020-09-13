@@ -55,6 +55,7 @@ div{
 }
 
 #green{
+	color: red;
 	background-color: #008000 ;
 	text-align: left;	
 }
