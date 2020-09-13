@@ -63,7 +63,11 @@ footer p{
 	padding-right:10px;
 	text-align:right;
 }
-
+p.footer {
+	padding-bottom:10px;
+	padding-right:10px;
+	text-align:right;
+}
 
 img{
 	display:block;
