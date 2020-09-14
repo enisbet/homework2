@@ -60,6 +60,7 @@ div{
 	text-align: left;	
 }
 footer p{
+	margin-top:-20px;
 	padding-bottom:10px;
 	padding-right:10px;
 	text-align:right;
